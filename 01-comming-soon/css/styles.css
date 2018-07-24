@@ -108,7 +108,7 @@ b.light-color{ color: #444; }
 
 .left-section .logo{ position: absolute; top: 40px; height: 30px; }
 
-.left-section .logo img{ height: 100%; width: auto; } 
+.left-section .logo img{  width: 80px; }
 
 
 .left-section .main-content{ padding: 40px 40px 40px 0; }
